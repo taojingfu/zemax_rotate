@@ -1,0 +1,5 @@
+{
+  "name": "Matrix Precision Analyzer",
+  "description": "A professional tool for decomposing 3x4 transformation matrices into Euler angles and translation vectors with high precision (up to 10 decimal places).",
+  "requestFramePermissions": []
+}
